@@ -1,7 +1,9 @@
+import Navbar from './components/Navbar'
+
 export default function App() {
   return (
     <div>
-      <h1> App skeleton </h1>
+      <Navbar />
     </div>
   )
 }
