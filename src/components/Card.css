@@ -1,0 +1,36 @@
+.card--gray {
+    color: #918E9B;
+}
+
+.card--price {
+    font-weight: bold;
+    margin-top: auto;
+}
+
+.card--container {
+    width: 175px;
+    font-size: 12px;
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.card--image {
+    width: 100%;
+    border-radius: 9px;
+    margin-bottom: 9px;
+}
+
+.card--stats {
+    display: flex;
+    align-items: center;
+}
+
+.card--star {
+    height: 14px;
+}
+
+.card--title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
